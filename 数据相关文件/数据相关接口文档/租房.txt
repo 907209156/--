@@ -1,0 +1,31 @@
+1.展示每个区的租房数量 area_rent_count
+（区域名，数量）
+/house/area_count
+
+2.展示租房类型的分布 rent_type_count
+（租房类型，数量）
+/house/rent_type
+
+3.展示每个区的租房价平均值，最高值，最低值 area_price
+（区域名，平均值，最高值，最低值）
+/house/area_price
+
+4.展示房型的分布 house_layout
+（房型，数量）
+/house/layout
+
+5.展示每个区的房源靠近地铁的占比 near_subway_ratio
+（区域名，占比）
+/house/near_subway
+
+6.展示每个区的房源有集中供暖的占比 central_heating_ratio
+（区域名，占比）
+/hosue/central_heating
+
+7.展示每个区的房源有官方验核的占比 official_varification_ratio
+（区域名，占比）
+/house/official_varification
+
+8.展示每个区的租房的大小的平均值，最高值，最低值 area_size
+（区域名，平均值，最高值，最低值）
+/house/area_size
